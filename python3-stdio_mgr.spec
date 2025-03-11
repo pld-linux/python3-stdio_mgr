@@ -2,7 +2,7 @@ Summary:	Context manager for mocking/wrapping stdin/stdout/stderr
 Summary(pl.UTF-8):	Zarządca kontekstu do tworzenia atrap/opakowań stdin/stdout/stderr
 Name:		python3-stdio_mgr
 Version:	1.0.1
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/stdio-mgr/
